@@ -1,4 +1,4 @@
-# Kioria1
+# Kioria 1: The Way of Zen
 Action RPG Adventure
 [Play on gd.games](https://gd.games/creo/kioria)
 
