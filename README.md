@@ -1,5 +1,6 @@
 # Kioria1
 Action RPG Adventure
+[Play on gd.games](https://gd.games/creo/kioria)
 
 ## Change Log
 
