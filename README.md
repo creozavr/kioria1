@@ -4,7 +4,7 @@ Action RPG Adventure
 
 ## Change Log
 
-### 1.0.12 (2026-03-08)
-- Implemented the ability to skip text in dialogue. The full line now appears instantly when the Action button is pressed, and advances to the next line when pressed again
-- Zen's House interior fully furnished
-- All explored map regions now have names
+### 1.0.12 (Expected: 2026-03-08)
+- Implemented the ability to skip text in dialogue. The full line now appears instantly when the Action button is pressed, and advances to the next line when pressed again (+)
+- Zen's House interior fully furnished (+)
+- All explored map regions now have names (+/-)
