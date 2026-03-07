@@ -4,9 +4,9 @@ Action RPG Adventure
 
 ## Change Log
 
-### 1.0.12 (Expected: 2026-03-08)
 WIP:
-River Bridge(+/-)
+
+### 1.0.12 (Expected: 2026-03-08)
 
 Already Done:
 - Implemented a basic minimap (press M to toggle)
