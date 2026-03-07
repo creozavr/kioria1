@@ -9,6 +9,7 @@ WIP:
 River Bridge(+/-)
 
 Already Done:
+- Implemented a basic minimap (press M to toggle)
 - Added an animated entrance to Zen's House
 - Animated the pond and added fishes to the water (v1-beta)
 - Fixed all boundaries and river collision bugs
