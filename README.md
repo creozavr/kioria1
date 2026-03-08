@@ -4,11 +4,8 @@ Action RPG Adventure
 
 ## Change Log
 
-WIP:
-
 ### 1.0.12 (Expected: 2026-03-08)
 
-Already Done:
 - Implemented a basic minimap (press M to toggle)
 - Added an animated entrance to Zen's House
 - Animated the pond and added fishes to the water (v1-beta)
