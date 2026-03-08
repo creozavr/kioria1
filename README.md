@@ -4,7 +4,7 @@ Action RPG Adventure
 
 ## Change Log
 
-### 1.0.12 (Expected: 2026-03-08)
+### 1.0.12 (2026-03-08)
 
 - Implemented a basic minimap (press M to toggle)
 - Added an animated entrance to Zen's House
