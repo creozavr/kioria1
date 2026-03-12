@@ -6,8 +6,12 @@ Action RPG Adventure
 
 ### 1.0.13 (Expected: 2026-03-15)
 
+**Major Update:**
+- Opening of the General store in Dreven Bor and the quest mechanic involving the purchase of potatoes..
+
 Already Done:
-- Opening of the General store in Dreven Bor and the quest mechanic involving the purchase of potatoes.. 
+- Added several new dialogues
+- Fixed control bugs during conversations and world interactions 
 
 ### 1.0.12 (2026-03-08)
 
