@@ -4,12 +4,11 @@ Action RPG Adventure
 
 ## Change Log
 
-### 1.0.13 (Expected: 2026-03-15)
+### 1.0.13 (2026-03-13)
 
-**Major Update:**
-- Opening of the General store in Dreven Bor and the quest mechanic involving the purchase of potatoes..
-
-Already Done:
+- Added the Temple of Time to the map
+- Opening of the General store in Dreven Bor and the quest mechanic involving the purchase of potatoes
+- Added minimap icon in GUI
 - Added several new dialogues
 - Fixed control bugs during conversations and world interactions 
 
